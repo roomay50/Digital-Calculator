@@ -7,14 +7,10 @@ This project demonstrates modular programming by splitting logic into multiple s
 
 ## 📂 Project Structure
 
-digital-calculator/
-**Main program loop (control flow)**
+C_Calculator/
 ├── calculator.c
-**Calculator functions**
 ├── functions.c  
- **Header file with function prototypes**
-├── calculator.h
-**Project documentation**
+├── functions.h
 └── README.md
 
 ---
