@@ -1,0 +1,10 @@
+int get_first_number();
+int get_second_number();
+char get_operator();
+int add(int, int);
+int divide(int, int);
+float float_division(int, int);
+int multiply(int, int);
+int subtract(int, int);
+void perform_operations(int, char, int);
+void use_again();
