@@ -8,10 +8,10 @@ This project demonstrates modular programming by splitting logic into multiple s
 ## 📂 Project Structure
 
 C_Calculator/
-├── calculator.c
-├── functions.c  
-├── functions.h
-└── README.md
+- calculator.c
+- functions.c
+- functions.h
+- README.md
 
 ---
 
@@ -56,11 +56,10 @@ The product is 50
 ## Learning Objectives
 
 This project was built to practice:
-
-    - Functions → reusable calculator operations.
-    - Conditionals → operator selection and error handling.
-    - Loops → continuous execution until quit.
-    - Input Validation → ensuring only valid integers/operators are accepted.
+- Functions → reusable calculator operations.
+- Conditionals → operator selection and error handling.
+- Loops → continuous execution until quit.
+- Input Validation → ensuring only valid integers/operators are accepted.
 
 ---
 
